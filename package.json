@@ -1,0 +1,29 @@
+{
+  "name": "clearbit-logo",
+  "version": "0.0.1",
+  "description": "Clearbit Logo API in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samcus/clearbit-logo.git"
+  },
+  "keywords": [
+    "clearbit",
+    "logo",
+    "logos",
+    "company"
+  ],
+  "author": "Samuel Anthony Custer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samcus/clearbit-logo/issues"
+  },
+  "homepage": "https://github.com/samcus/clearbit-logo#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "request": "^2.81.0"
+  }
+}
